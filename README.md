@@ -129,6 +129,8 @@ The **Streamlit App** provides an interactive dashboard:
 - **Sidebar:** Inputs for Elevation, Slope, Hydrology distances, Wilderness Area selection, and Soil Type.
 - **Main Panel:** Displays the predicted class (e.g., "Aspen") along with the confidence/integer ID.
 
+<video src="https://github.com/user-attachments/assets/b2426d19-e3c1-4b65-a971-2d96455d133f" controls width="700"></video>
+
 ---
 
 ## 🔚 Conclusion
